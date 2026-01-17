@@ -1,3 +1,0 @@
-# ignore vim/nvim backup and swap files
-*.un~
-*.swp
